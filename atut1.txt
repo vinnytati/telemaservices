@@ -1,4 +1,6 @@
 ATUT formation parcours en UI UX
-nfunfunf unfurn urnfu nbhby vfybvyf bvfyv bddvby vv byfvb yb bvyb v
-uvnfnv funvu nvufn unvus svndsuvudnvu nv nvufnvunfvunfuv nfunv fvf
-vnfun vu fnunv fvybybvvbfvnfvbfv ffvfffffffffffff dvd dvd
+tout d'abord il faut commencer par python , git algorithmes ensuite choisir un parcours
+parmi les 4 proposés :
+AI , UX UI, Insfrastructure Devops...
+Moi perso j'ai choisi UI UX
+qui est un pracours de dev web et mobile 
